@@ -1,0 +1,17 @@
+{
+    "rss": {
+        "targets": [
+        "https://0dayfans.com/feed.rss",
+        "https://feeds.feedburner.com/TheHackersNews"
+        ]
+    },
+    "nist": {
+        "api_key": "",
+        "filters": {
+            "cvss_score": 8
+        }
+    },
+    "output": {
+        "webhook": ""
+    }
+}

@@ -1,0 +1,9 @@
+.vscode/
+
+.venv/
+venv/
+__pycache__/
+
+logs/
+
+db.json
